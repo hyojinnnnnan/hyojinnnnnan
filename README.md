@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Hyojin An**
+My name is **Hyojin An**   
 I graudated from Myongji University in **Management Information System & Process Automation Administration**.
 
 - 🔭 I’m currently studying at Korea Polytech University. 
