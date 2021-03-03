@@ -2,7 +2,7 @@
 
 My name is **Hyojin An**.   
 I graudated from Myongji University in **Management Information System & Process Automation Administration(RPA)**.   
-I worked at **EdTech StartUp & AWS** as a intern. 
+I worked at **EdTech StartsUp & AWS** as a intern. 
 
 ### But now, 
 - 🔭 I’m currently studying at Korea Polytech University. 
