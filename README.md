@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is **Hyojin An**.   
-I graudated from Myongji University in **Management Information System & Process Automation Administration(RPA)**.
+I graudated from Myongji University in **Management Information System & Process Automation Administration(RPA)**.   
 I worked at **EdTech StartUp & AWS** as a intern. 
 
 ### But now, 
