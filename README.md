@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 My name is **Hyojin An**.   
-I graudated from Myongji University in **Management Information System & Process Automation Administration(RPA)**.   
-I worked at **EdTech StartsUp & AWS** as an intern and **Aekyung Innovation Services** as an RPA Developer. 
 
-### But now, 
 - 🔭 I’m currently working at **[Handok,Inc.](https://www.handok.co.kr/eng/)** Big Data Team as an Junior Role. 
 - :woman_technologist: I’m currently studying to develop Data Engineering skill.
 - 💬 Check out my [Notion](https://www.notion.so/hyojinan/Hi-My-name-is-Hyojin-An-590908177d694699a3b58eb33348211b). You can check the detail information about me. 
